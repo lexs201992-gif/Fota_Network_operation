@@ -1,0 +1,4 @@
+IPProto,SrcIP,SrcPort,DstIp,DstPort,UID,App,PackageName,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,10.215.173.1,3045,10.215.173.2,53,10092,Motorola Software Update,com.motorola.ccc.ota,DNS,Closed,moto-cds.appspot.com,66,94,1,1,2026-09-10T01:18:18.186-06:00,2026-09-10T01:18:18.247-06:00
+17,10.215.173.1,49418,10.215.173.2,53,10092,Motorola Software Update,com.motorola.ccc.ota,DNS,Closed,moto-cds.appspot.com,66,82,1,1,2026-09-10T01:18:18.190-06:00,2026-09-10T01:18:18.282-06:00
+6,10.215.173.1,57548,142.250.177.20,443,10092,Motorola Software Update,com.motorola.ccc.ota,HTTPS,Closed,moto-cds.appspot.com,3453,5274,9,9,2026-09-10T01:18:18.286-06:00,2026-09-10T01:18:25.123-06:00

@@ -1,0 +1,14 @@
+IPProto,SrcIP,SrcPort,DstIp,DstPort,UID,App,PackageName,Proto,Status,Info,BytesSent,BytesRcvd,PktsSent,PktsRcvd,FirstSeen,LastSeen
+17,10.215.173.1,28953,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,quorum.wdp.brave.com,66,160,1,1,2026-09-10T00:24:35.530-06:00,2026-09-10T00:24:35.643-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,51484,2600:9000:2357:5600:2:8588:ed80:93a1,443,-1,Unknown,unknown,TLS,Unreachable,payment.rewards.brave.com,80,60,1,1,2026-09-10T00:24:37.104-06:00,2026-09-10T00:24:37.110-06:00
+17,10.215.173.1,8237,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,support.google.com,64,80,1,1,2026-09-10T00:52:41.810-06:00,2026-09-10T00:52:41.890-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,54958,2600:9000:21d5:200:2:8588:ed80:93a1,443,-1,Unknown,unknown,TLS,Unreachable,payment.rewards.brave.com,80,60,1,1,2026-09-10T00:52:41.813-06:00,2026-09-10T00:52:41.815-06:00
+6,10.215.173.1,54354,32.185.56.41,443,-1,Unknown,unknown,TLS,Closed,go-updater.brave.com,100,88,2,2,2026-09-10T00:52:41.817-06:00,2026-09-10T00:52:41.922-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,42730,2607:f8b0:4012:828::2005,443,-1,Unknown,unknown,TLS,Unreachable,mail.google.com,80,60,1,1,2026-09-10T00:52:41.820-06:00,2026-09-10T00:52:41.821-06:00
+17,10.215.173.1,55194,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,support.google.com,64,114,1,1,2026-09-10T00:52:41.823-06:00,2026-09-10T00:52:41.891-06:00
+17,10.215.173.1,44247,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,support.google.com,64,92,1,1,2026-09-10T00:52:41.827-06:00,2026-09-10T00:52:41.920-06:00
+17,10.215.173.1,43622,10.215.173.2,53,-1,Unknown,unknown,DNS,Closed,support.google.com,64,80,1,1,2026-09-10T00:52:41.830-06:00,2026-09-10T00:52:41.891-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,54968,2600:9000:21d5:200:2:8588:ed80:93a1,443,-1,Unknown,unknown,TLS,Unreachable,payment.rewards.brave.com,80,60,1,1,2026-09-10T00:52:41.834-06:00,2026-09-10T00:52:41.836-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,40772,2600:9000:21d5:1e00:2:8588:ed80:93a1,443,-1,Unknown,unknown,TLS,Unreachable,payment.rewards.brave.com,80,60,1,1,2026-09-10T01:18:43.103-06:00,2026-09-10T01:18:43.107-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,40798,2600:9000:21d5:1e00:2:8588:ed80:93a1,443,-1,Unknown,unknown,TLS,Unreachable,payment.rewards.brave.com,80,60,1,1,2026-09-10T01:18:43.165-06:00,2026-09-10T01:18:43.168-06:00
+6,fd00:2:fd00:1:fd00:1:fd00:1,51660,2607:f8b0:4012:821::200e,443,-1,Unknown,unknown,TLS,Unreachable,one.google.com,80,60,1,1,2026-09-10T01:18:43.189-06:00,2026-09-10T01:18:43.194-06:00
